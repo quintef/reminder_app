@@ -4,8 +4,7 @@ import pytz
 import threading
 import phone
 import time
-tempauth,temptoken = "AC70a74706fc4f2a4b34355cf9a91a928e","3cef55d3d7ec5a73e1425e9a8f8d5c5d"
-tempto,tempfrom = "+18328009212","+18885271437"
+
 
 
 info=[]
